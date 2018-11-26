@@ -1,1 +1,2 @@
 # TOAST
+<!doctype html>
