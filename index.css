@@ -21,10 +21,10 @@ input[type="submit"] {
   color: white;
 }
 
-ul {
+ul li {
   position: center;
 }
 
-ol {
+ol li {
   position: center;
 }
