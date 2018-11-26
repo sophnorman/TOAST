@@ -7,7 +7,7 @@ blue = [196, 77, 55];
 purple = [280, 50, 60];
 letterColors = [red, orange, green, blue, purple];
 
-message = 'What to put o your toast';
+message = 'What to put on your toast';
 
 drawName(message, letterColors);
 bounceBubbles();
