@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <head>
   <title>Anna Dowlin</title>
@@ -30,3 +31,7 @@
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
+=======
+# TOAST
+<!doctype html>
+>>>>>>> 697f8f95320130ef0211057f7cb5f93c2b055a38
