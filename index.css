@@ -9,7 +9,7 @@ body {
 }
 p {
   font-size: 22px;
-  color: purple;
+  color: white;
 }
 input {
   border: 0;
@@ -19,4 +19,12 @@ input {
 input[type="submit"] {
   background: red;
   color: white;
+}
+
+ul {
+  position: center;
+}
+
+ol {
+  position: center;
 }
