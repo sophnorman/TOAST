@@ -5,7 +5,7 @@
   <style>
     body {
       text-align: center;
-      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhpa3x5PLeAhURx4UKHSCbADEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Ffood-recipes%2Fa16725%2Flove-toast-recipe-ghk0215%2F&psig=AOvVaw22dwTFVH74pt7-pphpkieZ&ust=1543346720971477");
       background-size: cover;
       background-position: center;
       color: white;
