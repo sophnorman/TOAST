@@ -9,6 +9,7 @@ body {
 }
 p {
   font-size: 22px;
+  color: purple;
 }
 input {
   border: 0;
